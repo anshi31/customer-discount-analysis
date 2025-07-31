@@ -17,8 +17,11 @@ This project analyzes how discounts influence customer spending behavior across 
 ## 📊 Key Business Insights
 - **Low spenders** responded most strongly to discounts (**1701%+** increase in spending)  
 - **Medium spenders** showed moderate responsiveness (**145%** increase)  
-- **High spenders** were least affected (**~17%** increase)  
+- **High spenders** were least affected (**~17%** increase)
 - Recommended actions: Tiered discount strategies, personalized targeting, and loyalty programs
+
+  ## 📷 Sample Visualization
+![Customer Segment Responsiveness](https://github.com/anshi31/customer-discount-analysis/blob/main/python/task_1_customer_segments.png)
 
 ## 📎 Features
 - Customer behavior analysis before/after discount periods  
