@@ -1,28 +1,31 @@
-# customer-discount-analysis
-Description:
-This project contains an analysis of discount impact on customer spending behavior, SQL queries, and Python scripts to process and analyze the data.
+# 🛍️ Customer Discount Impact Analysis
 
-Files Included:
+## 🧠 Objective
+This project analyzes how discounts influence customer spending behavior across low, medium, and high-value segments. The goal is to support smarter pricing and discount strategies using data-driven insights.
 
--main.py – Python script for data processing and analysis.
+## 📂 Files Included
+- `main.py` – Python script for data processing and analysis  
+- `sql_commands.sql` – SQL queries for data extraction and transformation  
+- `Business Case Study.pdf` – Summary of business findings, customer segmentation, and strategic recommendations  
 
--sql_commands.sql – SQL queries for data extraction and manipulation.
+## 🔧 Tools Used
+- Python (Pandas, Seaborn, Matplotlib)
+- SQL (for data extraction and grouping)
+- Jupyter Notebook
+- PDF for stakeholder-friendly insights
 
-Business Case Study.pdf – A business analysis on discount impact, customer segmentation, and strategic recommendations.
-Features
+## 📊 Key Business Insights
+- **Low spenders** responded most strongly to discounts (**1701%+** increase in spending)  
+- **Medium spenders** showed moderate responsiveness (**145%** increase)  
+- **High spenders** were least affected (**~17%** increase)  
+- Recommended actions: Tiered discount strategies, personalized targeting, and loyalty programs
 
-Data Analysis: Evaluates customer spending behavior before and after discounts.
+## 📎 Features
+- Customer behavior analysis before/after discount periods  
+- SQL + Python combined workflow  
+- Visual breakdown of discount effectiveness by customer type  
+- Business recommendations backed by data
 
-SQL Queries: Used to retrieve and analyze customer transaction data.
+## ✅ Outcome
+This project showcases how analysts can blend SQL, Python, and business strategy to uncover high-impact insights for pricing and retention planning.
 
-Python Processing: Handles data transformation and analysis.
-
-Business Insights:
-
--Low spenders showed the highest responsiveness to discounts (1701.20% increase).
-
--Medium spenders had moderate responsiveness (145.26% increase).
-
--High spenders were least affected by discounts (16.88% increase).
-
--Strategies include tiered discounts, personalized offers, and loyalty programs.
