@@ -20,8 +20,10 @@ This project analyzes how discounts influence customer spending behavior across 
 - **High spenders** were least affected (**~17%** increase)
 - Recommended actions: Tiered discount strategies, personalized targeting, and loyalty programs
 
-  ## 📷 Sample Visualization
-![Customer Segment Responsiveness](https://github.com/anshi31/customer-discount-analysis/blob/main/python/task_1_customer_segments.png)
+ ## 📷 Sample Visualization
+
+![Customer Segment Responsiveness](https://github.com/anshi31/customer-discount-analysis/blob/main/python/task_1_customer_segments.png)  
+*↑ Spending increase by customer tier after discounts*
 
 ## 📎 Features
 - Customer behavior analysis before/after discount periods  
